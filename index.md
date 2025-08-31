@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Tasnim Arpon's first CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+# My favorite things about CS193:
+- The teachers are very friendly and understanding.
+- There are no exams or tests.
+- It is a stress free class meant for us to learn.
 
 ### Markdown
 
